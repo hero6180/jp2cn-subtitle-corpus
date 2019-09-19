@@ -1,4 +1,4 @@
-# 85286-AI-translation
+# jp2cn-subtitle-corpus
 
 ## Description
 
@@ -7,7 +7,7 @@
 
 ## Usage
 
-python3 search.py
+#### python3 search.py
 
 #### 使用方法：
 ####     python3 search.py keyword
@@ -23,9 +23,9 @@ python3 search.py
 
 ####  This project is closed permanently.
 ####  本项目已永久性停止更新。
-####  For more information, please visit https://hacpai.com/article/1568806745718
-####  如需获取帮助，请访问：https://hacpai.com/article/1568806745718
+####  If need help, please use your GitHub account login and post an issue here. https://hacpai.com/article/1568806745718
+####  如需获取帮助，请到此论坛讨论。 https://hacpai.com/article/1568806745718
 
-## Thanks
+## Sponsor
 
 ####  http://yyets.com/
